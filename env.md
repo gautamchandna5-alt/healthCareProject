@@ -1,0 +1,7 @@
+SECRET_KEY=your_django_secret_key_here
+DEBUG=True
+DB_NAME=healthcare_db
+DB_USER=postgres
+DB_PASSWORD=your_postgres_password
+DB_HOST=localhost
+DB_PORT=5432
